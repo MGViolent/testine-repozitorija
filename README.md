@@ -1,3 +1,7 @@
+# Repozitorijos klonavimas:
+
+git clone (REPOZITORIJOS_ADRESAS);
+
 # Naudojimasis terminalu:
 
 E:\Marko\Mokslai\Vilnius Coding School kursai\testine-repozitorija - Absoliutus kelias;
