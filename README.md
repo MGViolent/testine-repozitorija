@@ -1,3 +1,7 @@
+# Repozitorijos grąžinimas į ankstesnę padėtį:
+
+git checkout (COMMIT'O KODAS);
+
 # Repozitorijos klonavimas:
 
 git clone (REPOZITORIJOS_ADRESAS);
