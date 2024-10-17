@@ -2,6 +2,8 @@
 
 git clone (REPOZITORIJOS_ADRESAS);
 
+git pull - atsisiunčia repozitorijos atnaujinimus;
+
 # Naudojimasis terminalu:
 
 E:\Marko\Mokslai\Vilnius Coding School kursai\testine-repozitorija - Absoliutus kelias;
